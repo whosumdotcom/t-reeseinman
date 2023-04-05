@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-05T22:28:04Z",
+  "IdClaims": [
+    {
+      "Claim": "t:reeseinman"
+    },
+    {
+      "Claim": "mdon:@hrinman@toad.social"
+    },
+    {
+      "Claim": "spout:hrinman"
+    },
+    {
+      "Claim": "post:hrinman"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "784b10633a39cbfdd04925c5",
+    "Timestamp": "2023-04-05T22:36:58Z",
+    "Signature": "9a44926bf9d2c843b7a6b095ecd757489fd62708ec053a7e19f4c108f7d3f6f46916a4fe2145111bf5946ebcf1150965b9171f369c0da131c8d1191e85f03452e400838f493ddaf72f690e329f1388e86cd0214e45a5155a2e365e9dd5f0e737688be45cf98afac21475cbf90dadc63273e483580bcfd849338a66a78242eec5e8d12b9d309353b036d1300cb17a1177ae53f987d610a034527c98e934c8298da14573ada3a2597225525fc51e13c1e2d40d0ecddcb9ec7af0e887d682152ba98c4dd88cf59e2fd59aa05b1a60e708779f8ed4b3788a01c6e2c2cef0879ff7b7aadc5012f8367b0171b4faf249c144f6f10dd046560c6907027f5f16c63fe354"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "13bd0a18352afafe60a0732e0f874600eea38ca29fe8c214f01806ef59de0380",
+  "ContentToHash": "v1|mdon:@hrinman@toad.social,med:no-account,pat:no-account,post:hrinman,spout:hrinman,ss:no-account,t:reeseinman|2023-04-05T22:28:04Z"
+}
